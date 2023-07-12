@@ -8,7 +8,7 @@
    flutter run
    ```
 
-![img](assets/1.png)
+![img](lib/assets/1.png)
 
 
 
